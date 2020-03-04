@@ -3,6 +3,10 @@
 > A collection of all country flags in SVG — plus the CSS for easier integration.
 > See the [demo](https://flagicons.lipis.dev).
 
+This fork has been modified to allow Angular use with both square and rectangular flags.
+
+This combats the issue of Angular overwriting the flag svg files due to same names.
+
 ## Install
 
 You can either [download](https://github.com/lipis/flag-icon-css/archive/master.zip)
