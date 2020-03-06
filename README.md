@@ -7,6 +7,15 @@ This fork has been modified to allow Angular use with both square and rectangula
 
 This combats the issue of Angular overwriting the flag svg files due to same names.
 
+You can use this as a way of implementing it.
+
+```
+"styles": [
+  "src/styles.css",
+  "node_modules/flag-icon-css/css/flag-icon.min.css"
+],
+```
+
 ## Install
 
 You can either [download](https://github.com/lipis/flag-icon-css/archive/master.zip)
